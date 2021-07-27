@@ -12,5 +12,8 @@ public class App {
         arr [3] = 7;
         arr [4] = 12;
         
+        for (int i = 0; i < arr.length; i ++){
+            System.out.println(arr [i]);
+        }
     }
 }
